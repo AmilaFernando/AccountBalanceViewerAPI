@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountBalanceViewerAPI", "AccountBalanceViewerAPI\AccountBalanceViewerAPI.csproj", "{70038362-A838-4854-8927-0000B285996C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70038362-A838-4854-8927-0000B285996C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70038362-A838-4854-8927-0000B285996C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70038362-A838-4854-8927-0000B285996C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70038362-A838-4854-8927-0000B285996C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D6D13A-B209-428B-834C-A39ED1B2E024}
+	EndGlobalSection
+EndGlobal
